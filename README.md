@@ -23,7 +23,7 @@ Le projet est organisé comme suit :
 - `present.c` : Le code source contenant les fonctions d'implémentation de PRESENT.
 - `present.h` : Le fichier d'en-tête contenant les déclarations des fonctions PRESENT.
 - `param.h` : Fichier de configuration avec les paramètres pour PRESENT (taille de la clé, nombre de tours, etc.).
-- `Makefile` : Fichier de configuration pour la compilation du projet.
+- `Makefile` : Fichier de configuration pour la compilation du projet (L'implementation a été faite sous Linux).
 - `LICENSE` : Le fichier de licence du projet (MIT License).
 - `47270450.pdf` : Etude détaillée du cryptosystème 
 
