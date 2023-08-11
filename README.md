@@ -23,7 +23,7 @@ Le projet est organisé comme suit :
 - `present.c` : Le code source contenant les fonctions d'implémentation de PRESENT.
 - `present.h` : Le fichier d'en-tête contenant les déclarations des fonctions PRESENT.
 - `param.h` : Fichier de configuration avec les paramètres pour PRESENT (taille de la clé, nombre de tours, etc.).
-- `Makefile` : Fichier de configuration pour la compilation du projet (L'implementation a été faite sous Linux).
+- `Makefile` : Fichier de configuration pour la compilation du projet .
 - `LICENSE` : Le fichier de licence du projet (MIT License).
 - `47270450.pdf` : Etude détaillée du cryptosystème 
 
@@ -35,5 +35,6 @@ Assurez-vous de modifier le fichier `param.h` pour définir les paramètres de c
 
 ## Compilation
 
-Pour compiler l'exemple, vous pouvez utiliser le fichier Makefile inclus. Ouvrez un terminal dans le répertoire du projet et exécutez la commande :
+Pour compiler l'exemple, vous pouvez utiliser le fichier Makefile inclus. Ouvrez un terminal dans le répertoire du projet et exécutez la commande : `make` pour compiler et faites `./present` pour exécuter le fichier `present` obtenu après la compilation. 
+NB: l'implémentation a été réalisé sous Linux d'où l'utilisation de la commande `make`
 
