@@ -36,5 +36,6 @@ Assurez-vous de modifier le fichier `param.h` pour définir les paramètres de c
 ## Compilation
 
 Pour compiler l'exemple, vous pouvez utiliser le fichier Makefile inclus. Ouvrez un terminal dans le répertoire du projet et exécutez la commande : `make` pour compiler et faites `./present` pour exécuter le fichier `present` obtenu après la compilation. 
+
 NB: l'implémentation a été réalisé sous Linux d'où l'utilisation de la commande `make`
 
