@@ -25,6 +25,7 @@ Le projet est organisé comme suit :
 - `param.h` : Fichier de configuration avec les paramètres pour PRESENT (taille de la clé, nombre de tours, etc.).
 - `Makefile` : Fichier de configuration pour la compilation du projet.
 - `LICENSE` : Le fichier de licence du projet (MIT License).
+- `47270450.pdf` : Etude détaillée du cryptosystème 
 
 ## Utilisation
 
